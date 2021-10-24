@@ -11,3 +11,6 @@ We used the bridge diode for the rectification section.
 - DC Jack
 - Switch
 - Connector
+<br>
+### 12 Volt Power Supply Design
+![power supply](/screenshots/latest.png)
