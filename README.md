@@ -13,4 +13,5 @@ We used the bridge diode for the rectification section.
 - Connector
 <br>
 ### 12 Volt Power Supply Design
-![power supply](https://github.com/Ogbonna-Joseph/12v-Power-Supply/blob/main/Power%20Supply/Power%20Supply%20PCB/Power%20Supply%20PCB01.png)
+
+![power_supply](https://github.com/Ogbonna-Joseph/12v-Power-Supply/blob/main/Power%20Supply/Power%20Supply%20PCB/Power%20Supply%20PCB01.png)
