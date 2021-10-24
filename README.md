@@ -11,7 +11,7 @@ We used the bridge diode for the rectification section.
 - DC Jack
 - Switch
 - Connector
-<br>
+
 <h3>Power Supply Design.<h3>
 
 ![power_supply](https://github.com/Ogbonna-Joseph/12v-Power-Supply/blob/main/Power%20Supply/Power%20Supply%20PCB/Power%20Supply%20PCB01.png)
